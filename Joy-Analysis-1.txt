@@ -1,0 +1,651 @@
+achievement			
+	admire			
+	adore
+	affection
+			
+	affordable
+			
+	amaze
+			
+	amus
+			
+	appealing
+			
+	appreciate
+			
+	ardor
+			
+	attractive
+			
+	authentic
+			
+	bargain
+			
+	beautiful
+			
+	beauty
+			
+	beloved
+			
+	best
+			
+	better
+			
+	beautifully
+			
+	bless
+			
+	bliss
+			
+	bountiful
+			
+	breakthrough
+			
+	bright
+			
+	brillian
+			
+	calm
+			
+	capabl
+			
+	captivat
+			
+	cashback
+			
+	catchy
+			
+	celebrat
+			
+	champion
+			
+	charitable
+			
+	cheapest
+			
+	cheer
+			
+	cherished
+			
+	cleanest
+			
+	colorful
+			
+	comfort
+			
+	comfy
+			
+	commend
+			
+	commit
+			
+	compassion
+			
+	complement
+			
+	confiden
+			
+	congratulat
+			
+	contentment
+			
+	cool
+			
+	cooperat
+			
+	cornerstone
+			
+	cost-effective
+			
+	cost-saving
+			
+	courage
+			
+	cute
+			
+	darling
+			
+	dazzle
+			
+	delicious
+			
+	delight
+			
+	depend
+			
+	desir
+			
+	digni
+			
+	dilig
+			
+	distinguished
+			
+	divine
+			
+	dreamland
+			
+	ease
+			
+	easi
+			
+	easy
+			
+	ecstatic
+			
+	efficient
+			
+	effortless
+			
+	elate
+			
+	eloqu
+			
+	encourag
+			
+	endear
+			
+	enjoy
+			
+	enlighten
+			
+	enthral
+			
+	enthusiast
+			
+	entice
+			
+	ergonomical
+			
+	euphor
+			
+	exalt
+			
+	examplar
+			
+	exceedingly
+			
+	excel
+			
+	exceptional
+			
+	excite
+			
+	extraordinar
+			
+	fabulous
+			
+	faith
+			
+	fantastic
+			
+	fascina
+			
+	fast-growing
+			
+	fav 
+			
+	fave
+			
+	favor
+			
+	fearless
+			
+	feasible
+			
+	festive
+			
+	flatter
+			
+	flawless
+			
+	flourish
+			
+	fond
+			
+	fortuitous
+			
+	fortunate
+			
+	free
+			
+	friendl
+			
+	fruitful
+			
+	ftw
+			
+	fulfillment
+			
+	fun
+			
+	gainfully
+			
+	generous
+			
+	genius
+			
+	gentle
+			
+	genuine
+			
+	gifted
+			
+	glad
+			
+	glamorous
+			
+	glee
+			
+	glori
+			
+	glory
+			
+	god-send
+			
+	godsend
+			
+	golden
+			
+	good
+			
+	goood
+			
+	gooood
+			
+	gracious
+			
+	grateful
+			
+	gratif
+			
+	gratitude
+			
+	great
+			
+	grin
+			
+	groundbreaking
+			
+	haha
+			
+	handsome
+			
+	happier
+			
+	happily
+			
+	happiness
+			
+	happy
+			
+	hard-working
+			
+	harmony
+			
+	heavenly
+			
+	helped
+			
+	helpful
+			
+	helping
+			
+	holy
+			
+	homage
+			
+	honest
+			
+	honesty
+			
+	honor
+			
+	hopeful
+			
+	humility
+			
+	humorous
+			
+	humour
+			
+	ideal
+			
+	idyllic
+			
+	imaculate
+			
+	imaginative
+			
+	immaculate
+			
+	impassioned
+			
+	impress
+			
+	incredibl
+			
+	inexpensive
+			
+	ingenious
+			
+	innovative
+			
+	inpressed
+			
+	inspir
+			
+	interesting
+			
+	intimate
+			
+	invaluable
+			
+	invincible
+			
+	jolly
+			
+	joy
+			
+	jubilant
+			
+	kind
+			
+	kindl
+			
+	lavish
+			
+	lawful
+			
+	leading
+			
+	legendary
+			
+	lifesaver
+			
+	like
+			
+	love
+			
+	loyal
+			
+	luck
+			
+	luxur
+			
+	magnific
+			
+	masterpiece
+			
+	mastery
+			
+	mercy
+			
+	merry
+			
+	mirac
+			
+	modest
+			
+	motivated
+			
+	nice
+			
+	noteworthy
+			
+	nourish
+			
+	nourishing
+			
+	optimis
+			
+	ovation
+			
+	paradise
+			
+	peace
+			
+	perfect
+			
+	phenomenal
+			
+	pleas
+			
+	pleasur
+			
+	polite
+			
+	positive
+			
+	praise
+			
+	precious
+			
+	proactive
+			
+	prodigy
+			
+	productive
+			
+	proficient
+			
+	profound
+			
+	progress
+			
+	prolific
+			
+	prosper
+			
+	purpose
+			
+	radiant
+			
+	readily
+			
+	reaffirm
+			
+	reasonab
+			
+	reassur
+			
+	rejoic
+			
+	rejuvenat
+			
+	remarkabl
+			
+	resilient
+			
+	resolute
+			
+	respect
+			
+	reverent
+			
+	revitalize
+			
+	romantic
+			
+	satisf
+			
+	savior
+			
+	sensational
+			
+	sensible
+			
+	sexy
+			
+	sincere
+			
+	slick
+			
+	smil
+			
+	snazzy
+			
+	sooth
+			
+	spectac
+			
+	spirited
+			
+	splendid
+			
+	spotless
+			
+	stable
+			
+	steadfast
+			
+	stimulating
+			
+	strong
+			
+	stylish
+			
+	succeed
+			
+	succes
+			
+	suffic
+			
+	supporti
+			
+	supurb
+			
+	sweet
+			
+	talented
+			
+	thank
+			
+	thoughtful
+			
+	thrill
+			
+	thrive
+			
+	thumb-up
+			
+	thumbs-up
+			
+	togetherness
+			
+	tranquil
+			
+	treasure
+			
+	triumph
+			
+	trust
+			
+	truthful
+			
+	unbeatable
+			
+	unbiased
+			
+	uncomplicated
+			
+	understandable
+			
+	unforgettable
+			
+	unity
+			
+	unmatched
+			
+	unparalleled
+			
+	unselfish
+			
+	upbeat
+			
+	useful
+			
+	valiant
+			
+	valuable
+			
+	vibrant
+			
+	victorious
+			
+	virtuous
+			
+	visionary
+			
+	warmly
+			
+	warmth
+			
+	wealthy
+			
+	welcome
+			
+	whoa
+			
+	win 
+			
+	won 
+			
+	wonder
+			
+	woo
+			
+	worth
+			
+	wow
+			
+	yay
+			
+	youthful
+			
+	zeal
+			
+	\xF0\x9F\x98\x81 #These are emoji unicode - often used to express sentiment on social media.
+			
+	\xF0\x9F\x98\x82
+			
+	\xF0\x9F\x98\x83
+			
+	\xF0\x9F\x98\x84
+			
+	\xF0\x9F\x98\x85
+			
+	\xF0\x9F\x98\x86
+			
+	\xF0\x9F\x98\x89
+			
+	\xF0\x9F\x98\x8A
+			
+	\xF0\x9F\x98\x8B
+			
+	\xF0\x9F\x98\x8C
+			
+	\xF0\x9F\x98\x8D
+			
+	\xF0\x9F\x98\x98
+			
+	\xF0\x9F\x98\x9A
+			
+	\xF0\x9F\x98\x9C
+			
+	\xF0\x9F\x99\x8C
+			
+	\xF0\x9F\x99\x8F
+			
+	\xE2\x9D\xA4
+			
+	\xF0\x9F\x8E\x89
+			
+	\xF0\x9F\x8E\x8A
+			
+	\xF0\x9F\x91\x8D
+			
+	\xF0\x9F\x91\x8C
+			
+	\xF0\x9F\x92\x95
+			
